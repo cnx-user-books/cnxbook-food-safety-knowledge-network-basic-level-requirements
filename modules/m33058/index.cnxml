@@ -1,0 +1,204 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Food Safety: Introduction to Incident Management</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33058</md:content-id>
+  <md:title>Food Safety: Introduction to Incident Management</md:title>
+  <md:abstract>This module on incident management is part of the Food Safety Knowledge Network's Basic Level resources for food manufacturers. This module was authored by Kevin Swoffer.</md:abstract>
+  <md:uuid>69fc0f36-f68b-4a0b-b75b-ba83a926df78</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.codexalimentarius.net/download/standards/23/cxp_001e.pdf" strength="2">Codex: Recommended International Code of Practice General Principles of Food Hygiene</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id13396146">
+      <title>Welcome</title>
+      <para id="id13396154">Welcome to <emphasis effect="bold">Introduction to Incident Management</emphasis>. </para>
+      <para id="id13396163">This learning module is part of the Food Safety Knowledge Network Basic Level Program. </para>
+      <para id="id13396194">The Basic Level and Intermediate Level Programs were developed through a partnership between the Global Food Safety Initiative and Michigan State University to enhance the technical knowledge of individuals responsible for food safety, especially those working for small or less-developed businesses.</para>
+      <para id="id13396202">To learn more about the Food Safety Knowledge Network, please visit <link url="http://www.foodsafetyknowledgenetwork.org/" window="new">www.foodsafetyknowledgenetwork.org</link>. </para>
+    </section>
+    <section id="id13396217">
+      <title>Module Overview</title>
+      <para id="id13396224">Your company’s main objective is to produce safe and legal food. As the person responsible for food safety, it is important that you ensure that the product produced and placed on the market is safe and poses no risk to customers’ health. You must know how to minimize risk and safeguard customers. </para>
+      <para id="id13396239">It is the legal <emphasis effect="bold">responsibility of the manufacturer to produce safe food</emphasis>. In many countries there is a legal obligation to have procedures in place to ensure that if a company suspects or is aware that it has placed unsafe food on the market, the company must quickly and effectively withdraw the product from the market and inform the customers. You also must ensure that the product is of the quality demanded by and agreed upon with the customer.</para>
+      <para id="id13396256">In the event that the quality of the product supplied to a customer could lead to complaints or commercial loss, then these situations must quickly and effectively be managed to make sure your company’s reputation is not compromised and customers are not made ill. A poorly controlled incident management system will have a direct effect on the reputation and commercial well-being of your company.</para>
+      <para id="id13396273">This Basic Level learning module covers the requirements for effective implementation and maintenance of an incident management system.</para>
+      <para id="id13396280">The following topics will be discussed:</para>
+      <list id="id13396284" list-type="bulleted">
+        <item>system development</item>
+        <item>evaluation of incidents</item>
+        <item>complaint handling</item>
+        <item>product quarantine</item>
+        <item>product recall.</item>
+      </list>
+    </section>
+    <section id="id13396316">
+      <title>Module Objectives</title>
+      <para id="id13396323">Upon completion of this module, you should be able to</para>
+      <list id="id13396328" list-type="bulleted">
+        <item>understand the principles and reasons for an effective incident management system</item>
+        <item>provide specific knowledge for all product safety issues/complaints </item>
+        <item>provide specific knowledge about the significance of product safety issues/ complaints </item>
+        <item>provide specific knowledge about the design and maintenance of a quarantine procedure for all products affected within your company </item>
+        <item>provide specific knowledge about the design and maintenance of the product recall system.</item>
+      </list>
+    </section>
+    <section id="id13396368">
+      <title>System Development</title>
+      <para id="id13396375">As the person responsible for food safety within the factory, you must develop procedures to effectively quarantine an unsafe product ensure the training of the employees in the product quarantine system</para>
+      <list id="id13396382" list-type="bulleted">
+        <item>monitor staff on the practices involved with the product quarantine system </item>
+        <item>recall a product quickly and effectively</item>
+        <item>ensure the training of the employees in the product recall system</item>
+        <item>monitor employees as they take the steps to recall a product</item>
+        <item>develop quidelines to discipline and/or retrain employees in product quarantine practices and product recall procedures.</item>
+      </list>
+      <para id="id13396417">Any system will have to be clearly and concisely documented and communicated effectively to appropriate employees within the company.</para>
+      <para id="id13396424">It is important to work closely with key company employees and managers so that they clearly understand the importance of such systems and their roles in achieving effective compliance. </para>
+      <para id="id13396431">Since the responsibility for food safety rests with you, direct verification of all matters is extremely important for Basic Level requirements. You should personally and frequently monitor activities and record your findings.</para>
+    </section>
+    <section id="id13396440">
+      <title>Evaluation of Incidents</title>
+      <definition id="id13396447">
+        <term>Incident</term>
+        <meaning id="oo-id13170592">Any event where, based on the information available, there are concerns about actual or suspected threats to the safety or quality of a product that could require intervention to protect consumers’ interests.
+      </meaning>
+      </definition>
+      <para id="id13396462">As a person responsible for food safety management, it is imperative that you have a system in place to</para>
+      <list id="id13396468" list-type="bulleted">
+        <item>identify when an incident is or has occurred</item>
+        <item>assess and analyse the significance of the incident and the potential risk to the consumer</item>
+        <item>decide upon the appropriate action to take to protect consumer safety and your customer’s reputation.</item>
+      </list>
+      <para id="id13396493">In any working day, information about potential problems with food products is continually entering and transferred around a company; for example, raw materials are outside agreed specification; the wrong ingredients are placed in a batch of products; or a piece of equipment has broken down or malfunctions. There must be good and quick internal communication to make sure that information about product problems, and more importantly incidents, are collected and quickly assessed by you and your colleagues to understand their significance and impact.</para>
+      <section id="id13396507">
+        <title>Identification</title>
+        <para id="id13396515">You will have to analyze and make judgments about what to do when <emphasis effect="italics">issues</emphasis> or <emphasis effect="italics">incidents</emphasis> occur. You will have to decide what action to take, if any.</para>
+        <para id="id13396532">The process of identifying incidents is based on your knowledge of the likelihood of something occurring and its possible severity or effect. It is very much linked into the understanding of hazards in the workplace and knowing your raw materials, the manufacturing process, product, suppliers, and people working with the product. </para>
+        <para id="id13396542">The keys to quickly indentifying an incident are knowledge, communication, training, and vigilance.</para>
+        <para id="id13396547">Since you will be responsible for deciding upon and coordinating actions when a problem occurs, communication between you and your colleagues is essential to keep all informed about what is going on or has been revealed. Their cooperation is vital in maintaining control a situation.</para>
+        <para id="id13396556">Handling complaints and analyzing them correctly are key factors in the relationship between you and your customers. There should be accurate and timely transfer of information.</para>
+      </section>
+      <section id="id13396565">
+        <title>Analysis</title>
+        <para id="id13396571">To ensure a correct judgment is made on the action to be taken to safeguard consumer safety, you must carefully screen the information you have. Accurate information and data is necessary, but on some occasions information may not always be readily available. Then your knowledge and experience as the food safety specialist within your company becomes vital.</para>
+        <para id="id13386139">When you become aware of an issue or incident, you must gather as much information as possible in order to understand fully the hazard, the nature of the complaint/issue, and its significance.</para>
+        <para id="id13386150">There are three steps to the analysis of incidents:</para>
+        <list id="id13386158" list-type="enumerated" number-style="arabic">
+          <item>identifying the hazard’s effects: the nature of the possible effects on consumer safety</item>
+          <item>assessing the risk to the consumer: as accurate an assessment as possible of the exposure to the consumer and the safety risk involved</item>
+          <item>assessing the actions required: determining the options available to ensure consumer safety and making the decisions about what actions are appropriate and must be taken. </item>
+        </list>
+        <para id="id13386185">Decisions should be made using knowledge and advice from a number of reliable sources such as the expertise of employees with the company, reference to literature, government officials, research associations, consultants, and/ or customers. The decision-making process, however, should be carried out in a timely manner since delay could lead to increased risk of exposure to customers, which should be avoided at all costs. </para>
+        <para id="id13386199">If your company supplies large retailers and manufacturers, these companies may have highly qualified staff that can also assist you in making necessary decisions.</para>
+      </section>
+      <section id="id13386210">
+        <title>Required Action</title>
+        <para id="id13386220">There are four courses of action which can be taken following careful decision-making:</para>
+        <list id="id13386229" list-type="enumerated" number-style="arabic">
+          <item>review, revise, and continue to monitor the current situation </item>
+          <item>quarantine the product within your control but do not inform customers</item>
+          <item>provide information to customers</item>
+          <item>initiate a product recall.</item>
+        </list>
+        <para id="id13386268">You may determine after careful consideration that the information and data reviewed indicates that no significant corrective action is required at that time. But you will need to continue to monitor the situation carefully and frequently.</para>
+        <para id="id13386280">If a product is unsafe and you have decided that the situation dictates that the product must not be dispatched to any customer, the product shall be immediately quarantined and under no circumstances released from your control.</para>
+        <para id="id13386291">If you believe there is significant risk to the consumer or reputation of your customer and the product has already been dispatched and is not now directly controlled by your company, you must take urgent steps to inform your customers. Customers will have differing requirements in place and will react differently. You need to provide as much accurate information to them as possible to allow them to act quickly to quarantine the product in their supply chain. </para>
+        <para id="id13386306">In the event that there is evidence that the product poses a risk to the health of consumers and there is a likelihood that consumers have bought or could consume the product, you must recall the product.</para>
+        <definition id="id13386317">
+          <term>Product Recall</term>
+          <meaning id="oo-id13014454">The process by which a product is removed from the market, where the product has reached consumers and they are advised to return or destroy products supplied to them.
+      </meaning>
+        </definition>
+      </section>
+    </section>
+    <section id="id13386337">
+      <title>Complaint Handling</title>
+      <para id="id13386344">The importance of an effective complaint-handling system cannot be emphasized enough. Complaint feedback provides invaluable information to you as the person responsible for food safety on your performance and the effectiveness of food safety and quality systems.</para>
+      <para id="id13386353">If there is an incident, an effective complaint handling system will provide you and your colleagues with vital information, allowing you to accurately assess the risk and thus take appropriate action. Being proactive in handling complaints means that you must identify the severity and the significance of the complaints.</para>
+      <para id="id13386362">All companies within the supply chain should have effective procedures for handling complaints and understand how information gathered relates to product safety and their customers. These procedures should be fully documented with specific personnel trained to handle them. There should be an individual available at any time within each organisation who is responsible for dealing with serious complaints.</para>
+      <para id="id13386374">Consumers tend to complain directly to the brand owner or to the organisation who sold the product to them. Thus there is a shared responsibility for the assessment of complaints in determining their source and importance. Since you are the person responsible for dealing with complaints, you must fully understand your customers’ needs.</para>
+      <section id="id13386389">
+        <title>Required Action</title>
+        <para id="id13386396">All complaints are important. There should be a procedure in place which specifies</para>
+        <list id="id13386402" list-type="bulleted">
+          <item>who is responsible for dealing with complaints </item>
+          <item>how a complaint is investigated </item>
+          <item>how a complaint investigation is reported and, where appropriate, information about the investigation is provided to the complainant</item>
+          <item>how much time is required to investigate and to document (or report ) on the outcome of the investigation</item>
+          <item>how complaints are reviewed. </item>
+        </list>
+        <para id="id13386436">The regular review of complaints is a useful practice to help you understand the performance of your food safety management system and to identify any potential hazards which you may be unaware of.</para>
+      </section>
+    </section>
+    <section id="id13386446">
+      <title>Product Quarantine</title>
+      <para id="id13386453">A product may be quarantined for a number of reasons:</para>
+      <list id="id13386458" list-type="bulleted">
+        <item>You have identified that the product is unsafe.</item>
+        <item>You have identified that the product is potentially unsafe and is being held pending further investigation or checking before a decision can be made.</item>
+        <item>A product has been returned from a customer and thus should not be used.</item>
+      </list>
+      <para id="id13386485">Quarantine means that the product is held under secure conditions to ensure that it is not used or dispatched. Under no circumstances can it be used until authorization for its movement or use is given by an appropriate person. </para>
+      <para id="id13386493">If you are the person responsible for food safety, it is important that you be fully aware of the quantity, condition, and status of all quarantined products under your control.</para>
+      <section id="id13386500">
+        <title>Required Action</title>
+        <para id="id13386507">Once a product has been placed in quarantine, under no circumstances should it be used, or dispatched, without authority by an appropriate person.</para>
+        <para id="id13386514">Factories are busy places. Preferably quarantined products should be physically isolated to a clearly-designated area where access is restricted to employees authorized to enter this area.</para>
+        <para id="id13386521">In many factories, however, this is not normally the case; so the product must be clearly marked or identified as being quarantined and employees must be trained to recognize the product status and the significance if the product is used or dispatched. It is advisable that all quarantined products be physically marked with very recognizable colored labels, marks, or symbols which are not easily removed. (Products should be marked even if placed in designated quarantine areas).</para>
+        <para id="id13386534">You should be fully aware of any possibility that the quarantined product could be accidently used or dispatched by employees or staff and introduce procedures to minimize the risk of such happening. This process should involve key staff/employees who are handling, storing, or dispatching the product.</para>
+      </section>
+    </section>
+    <section id="id13386545">
+      <title>Product Recall</title>
+      <definition id="id13386552">
+        <term>Product Recall</term>
+        <meaning id="oo-id11248961">The process by which a product is removed from the market, where the product has reached consumers and they are advised to return or destroy products supplied to them.”
+      </meaning>
+      </definition>
+      <para id="id13386567">The Codex Code of Practice - <link url="http://www.codexalimentarius.net/download/standards/23/cxp_001e.pdf" window="new">Recommended International Code of Practice General Principles of Food Hygiene Cac/Rcp 1-1969, Rev. 4-2003</link> states,</para>
+      <para id="id13386584">
+        <quote id="id13386584_quote" display="block">Managers should ensure effective procedures are in place to deal with any food safety hazard and to enable the complete, rapid recall of any implicated lot of the finished food from the market.</quote>
+        <quote id="id13386592_quote" display="block">Where a product has been withdrawn because of an immediate health hazard, other products which are produced under similar conditions, and which may present a similar hazard to public health, should be evaluated for safety and may need to be withdrawn. The need for public warnings should be considered.</quote>
+      </para>
+      <para id="id13386602">As the person responsible for food safety, the development and maintenance of product recall procedures rests with you. You must gain the cooperation and commitment of your management and colleague so that when a serious problem arises you have full support to deal authoritatively and effectively with the situation.</para>
+      <para id="id13386612">In operation, the product recall process is complex and will become more complex as a company grows and the number of customers increases, but the principles that should be in place to support an effective product recall are relatively simple.</para>
+      <section id="id13386620">
+        <title>Procedures</title>
+        <para id="id13386627">As with the development of any procedure, you must carefully define</para>
+        <list id="id13386632" list-type="bulleted">
+          <item>who</item>
+          <item>what</item>
+          <item>how </item>
+          <item>when.</item>
+        </list>
+        <para id="id13386659">Procedures must be documented. They must focus on consumer safety at all times. Key operations are </para>
+        <list id="id13386665" list-type="bulleted">
+          <item>restriction of any further unsafe products entering the supply chain</item>
+          <item>the accuracy of information regarding the location of unsafe products</item>
+          <item>the accuracy of information regarding your customers</item>
+          <item>the operational method for communicating with your customers and other interested parties.</item>
+        </list>
+        <para id="id13386696">Since customer safety is paramount, you should make provision that you or a trained deputy be available at all times. It is also important that the procedures put in place must be followed at all times.</para>
+      </section>
+      <section id="id13386705">
+        <title>Communication</title>
+        <para id="id13386712">Good communication is vital to ensure that the safety of consumers is not compromised.</para>
+        <para id="id13386717">There are three important principles for effective communication in incident management:</para>
+        <list id="id13386723" list-type="enumerated" number-style="arabic">
+          <item>There must be well-defined communication pathways. </item>
+          <item>Communication must be accurate and easily understood.</item>
+          <item>Communication processes must be fast and effective.</item>
+        </list>
+        <para id="id13386745">In a product recall, speed and accuracy of communication are vitally important. Customers should be contacted without delay.</para>
+        <para id="id13386751">Communication is a two-way process, so you need to confirm your company’s contact data to your customers and suppliers. You should have access to your emergency contact list at all times, allowing communication at any time. All contact data (your company, customers, and suppliers) must be accurate, and there must be a defined procedure in place to maintain the currency of this data.</para>
+      </section>
+    </section>
+  </content>
+</document>

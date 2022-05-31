@@ -1,0 +1,217 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Food Safety: Introduction to Water Quality</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33112</md:content-id>
+  <md:title>Food Safety: Introduction to Water Quality</md:title>
+  <md:abstract>This learning module is part of the Food Safety Knowledge Network Basic Level Program. 
+The Basic Level and Intermediate Level Programs were developed through a partnership between the Global Food Safety Initiative and Michigan State University to enhance the technical knowledge of individuals responsible for food safety, especially those working for small or less-developed businesses.
+To learn more about the Food Safety Knowledge Network, please visit www.foodsafetyknowledgenetwork.org.</md:abstract>
+  <md:uuid>a2b0e21d-cb7a-4ccc-b9f7-152988935e9d</md:uuid>
+</metadata>
+<content>
+    <section id="id16647501">
+      <title>Welcome</title>
+      <para id="id16647508">Welcome to <emphasis effect="bold">Introduction to Water Quality</emphasis>.</para>
+      <para id="id16650332">This learning module is part of the Food Safety Knowledge Network<emphasis effect="bold"/>Basic Level Program. </para>
+      <para id="id16650343">The Basic Level and Intermediate Level Programs were developed through a partnership between the Global Food Safety Initiative and Michigan State University to enhance the technical knowledge of individuals responsible for food safety, especially those working for small or less-developed businesses.</para>
+      <para id="id16646772">To learn more about the Food Safety Knowledge Network, please visit <link url="http://www.foodsafetyknowledgenetwork.org">www.foodsafetyknowledgenetwork.org</link>. </para>
+    </section>
+    <section id="id16646786">
+      <title>Module Overview</title>
+      <para id="id16645149">A person responsible for food safety must know the necessary requirements for constructing water systems within the factory. Identifying possible points of contamination or reduction in the quality of the water is essential to maintain the safety of a product.</para>
+      <para id="id16645158">Having poor water quality or using contaminated water in food processing can affect the safety of products and potentially cause illness to many people. A good water quality management system will reduce this risk.</para>
+      
+      <para id="id16645170">The following topics will be discussed:</para>
+      <list id="id16602586" list-type="bulleted">
+        <item>system development</item>
+        <item>importance of water quality</item>
+        <item>legal requirements and regulations</item>
+        <item>Codex requirements</item>
+        <item>proper construction of wells and plumbing systems</item>
+        <item>monitoring and management</item>
+      </list>
+    </section>
+    <section id="id16648553">
+      <title>Module Objectives</title>
+      <para id="id16648560">Upon completion of this module, you should be able to</para>
+      <list id="id16629158" list-type="bulleted">
+        <item>describe reasons for ensuring water quality </item>
+        <item>explain the regulations and customer requirements associated with water quality, ice, and steam</item>
+        <item>explain the characteristics of properly-constructed water wells (where applicable) and plumbing systems necessary for delivery of potable water, ice, and steam</item>
+        <item>design a system to ensure the quality of water, ice, and steam</item>
+        <item>operate a system to ensure the quality of water, ice, and steam.</item>
+      </list>
+    </section>
+    <section id="id16651713">
+      <title>System Development</title>
+      <para id="id16651720">As the person responsible for food safety within the factory, you must develop systems that</para>
+      <list id="id16602534" list-type="bulleted">
+        <item>ensure that the staff is aware that they must use safe water during the food production process </item>
+        <item>monitor the staff’s use of safe water during the food production process </item>
+        <item>ensure that the staff is aware of their responsibility to identify maintenance issues for water systems</item>
+        <item>monitor the staff in identifying maintenance issues for water systems</item>
+        <item>ensure that the staff is aware of hazard prevention practices</item>
+        <item>monitor and review the risk analysis used in identifying all possible hazards concerned with water used within the factory.</item>
+      </list>
+      <para id="id16646273">Any system will have to be clearly and concisely documented and communicated effectively to appropriate staff within the company.</para>
+      <para id="id16646280">You must work closely with key company staff to ensure they clearly understand the importance of such systems and the ways they can influence effective compliance. </para>
+      <para id="id16646287">Since the responsibility for food safety rests with you, direct verification of systems is extremely important for Basic Level requirements, and you should personally systematically monitor activities on a regular basis and record your findings. </para>
+    </section>
+    <section id="id14464771">
+      <title>The Importance of Water Quality</title>
+      <para id="id14464777">The contamination of water can cause serious illnesses to consumers. Water contamination is a major source of gastrointestinal illnesses, which can be fatal to vulnerable people.</para>
+      <para id="id14464784">Pathogenic microorganisms in contaminated water can potentially contaminate foods when used in ingredients, ice, or steam and when there is contact with food. </para>
+      <para id="id16644662">Chemicals in water can also be a public health concern. It is common in some parts of the world where ground water used in food production may contain arsenic and other compounds which, when consumed by humans, can be very dangerous.</para>
+    </section>
+    <section id="id16644672">
+      <title>Legal Requirements and Regulations</title>
+      <para id="id16644678">Countries or regions typically have legislative requirements for water quality. As the food safety manager, you should refer to the local regulations on using non-potable water in food product processes since they differ from place to place.</para>
+      <para id="id16625458">The World Health Organisation has established guidelines for drinking water guidance in the Codex Alimentarius. These may be adopted as a national standard, but such may not always be the case.</para>
+      <para id="id16625467">These requirements and regulations are in place to reduce the risk of water contamination and should protect public health if all businesses follow them correctly. </para>
+    </section>
+    <section id="id16625476">
+      <title>Codex Requirements</title>
+      <para id="id16646291">The Codex provides the following requirements for the use of water in your facility:</para>
+      <list id="id16550948" list-type="bulleted">
+        <item>Facilities</item>
+        <item>Water in contact with food</item>
+        <item>Water as an ingredient </item>
+        <item>Water used to make ice and steam</item>
+      </list>
+      <section id="id16492235">
+        <title>Facilities</title>
+        <para id="id16492242">The Codex requirements state that an adequate supply of potable water with appropriate facilities for its storage, distribution, and temperature control, should be available whenever necessary to ensure the safety and suitability of food. </para>
+        <para id="id16492250">To find correct guidance for drinking water, you should study the World Health Organisation’s <link url="http://www.who.int/water_sanitation_health/dwq/gdwq3rev/en/">Guidelines for Drinking Water Quality</link>. </para>
+        <para id="id16611332">Non-potable water is regularly used in facilities for fire control, steam production, refrigeration, and other similar purposes where the quality of the water does not matter. Non-potable water must be indentified in your facility and must have a separate system from potable systems. </para>
+      </section>
+      <section id="id16611342">
+        <title>Water in Contact with Food</title>
+        <para id="id16611348">Only potable water should be used if the water is going to be in contact with the food product. There are, however, a few exceptions when this rule does not apply:</para>
+        <list id="id16617873" list-type="bulleted">
+          <item>for steam production, fire control, and other similar purposes not connected with food</item>
+          <item>in certain food processes, chilling, and in food handling areas, provided this does not constitute a hazard to the safety and suitability of food (for example, the use of clean sea water).</item>
+        </list>
+        <para id="id16617892">Water that is re-circulated for reuse should be treated and maintained in such a condition that no risk to the safety and suitability of food can result. You must monitor the treatment processes effectively to make sure that you have them under control.</para>
+        <para id="id16613756">Water that has been re-circulated but has received no further treatment and water that has been recovered from processing of food by evaporation or drying, may be used again. This water cannot be used, however, if it poses a risk to the safety and suitability of food.</para>
+      </section>
+      <section id="id16613766">
+        <title>Water Used as an Ingredient</title>
+        <para id="id16613772">You must give careful consideration when using water as an ingredient to prevent problems with safety. Potable water must be used wherever necessary to avoid food contamination.</para>
+        <para id="id16602625">A safety problem could occur, for example, when water is used as an ingredient in ice cream. The freezing process does not kill microorganisms, so it is very easy for a person to become ill from eating contaminated ice cream.</para>
+      </section>
+      <section id="id16602635">
+        <title>Water Used To Make Ice and Steam</title>
+        <para id="id16602642">Water may also be used as an ingredient in the form of ice or steam. Certain pathogens can survive the ice- or steam-making process, thus potentially remaining a risk to health if the ice or steam from this source comes into direct contact with food.</para>
+        <para id="id16641275">Both ice and steam should be produced, handled, and stored to protect them from contaminants.</para>
+        <para id="id16641281">Many foods have direct contact with steam. The water used in the steaming process should not constitute a threat to the safety and suitability of the products.</para>
+      </section>
+    </section>
+    <section id="id16641290">
+      <title>Correct Construction of Wells and Plumbing Systems</title>
+      <para id="id16630537">Your facility must have adequate and safe wells and plumbing systems to prevent the risk of contamination by water. As a food safety manager, you should know the requirements for the factory for water usage and also all the systems used. With this knowledge, you can identify any maintenance problems and can thus prevent any subsequent contamination. </para>
+      <section id="id16630547">
+        <title>Facility Requirements</title>
+        <para id="id16630554">The source of potable water to your facility must be a recognised one, from either a municipal supply or private well. For it to be acceptable for use, the water supply system must be properly constructed, properly maintained, and routinely tested to ensure the safety of the water coming into your factory.</para>
+        <para id="id16594859">If your factory receives water from a well, the well should be tested at least once a year; however, you should carry out a risk assessment to see how often testing needs to be done. This risk assessment may look at areas such as possible leaking of contaminates from farmland or industrial areas. </para>
+        <para id="id16594868">You must have potable hot and cold water available in processing areas. There should also be sufficient volume and water pressure to allow appropriate cleaning. </para>
+      </section>
+      <section id="id16594877">
+        <title>On-Site Water Treatment</title>
+        <para id="id16654985">If your factory has a non-potable water supply which is required to be used as an ingredient or otherwise come into direct contact with food, then this must be effectively purified to potable water quality to remove any risk of contamination.</para>
+        <para id="id16654994">Water can be purified onsite by a number of methods:</para>
+        <list id="id16654999" list-type="bulleted">
+          <item>sand filtration</item>
+          <item>membrane filtration</item>
+          <item>charcoal filtration</item>
+          <item>reverse osmosis</item>
+          <item>ion exchange.</item>
+        </list>
+      </section>
+      <section id="id16630525">
+        <title>Cross-Connections and Backflow</title>
+        <definition id="id16646812">
+          <term>Cross-Connection</term>
+          <meaning id="oo-id16647204">Any connection or structural arrangement between a potable water system and a non-potable system, liquid or otherwise, through which backflow can occur. 
+      </meaning>
+        </definition>
+        <definition id="id16646824">
+          <term>Backflow</term>
+          <meaning id="oo-id16630778">The flow of water or other liquids, mixtures, or substances into a potable water system from any source other than the intended source.
+      </meaning>
+        </definition>
+        <para id="id16646835">Backflow, by its very nature of potentially mixing potable and non-potable water systems, can pose a high risk to the health of consumers.</para>
+        <para id="id16646842">(Source: U.S. Food and Drug Administration)</para>
+      </section>
+      <section id="id16626561">
+        <title>Plumbing Connections to Sewer Lines</title>
+        <para id="id16626567">Within any water conveyance system, there are two types of plumbing connections: direct and indirect.</para>
+        <definition id="id16626574">
+          <term>Direct Connection</term>
+          <meaning id="oo-id16432452">A solid physical joining to a waste or soil line
+      </meaning>
+        </definition>
+        <definition id="id16626583">
+          <term>Indirect Connection</term>
+          <meaning id="oo-id16564849">Other than a solid physical joining to a waste or soil line. It can be either an air gap or an air break.
+      </meaning>
+        </definition>
+        <para id="eip-975"><figure id="air_gap"><media id="airgap" alt="an example of an air gap">
+   <image mime-type="image/jpeg" src="../../media/airgap.jpg" width="250" print-width="2.5in"/>
+ </media>
+
+<caption>Air gap.</caption></figure>
+
+<figure id="air_break"><media id="airbreak" alt="an example of an air break">
+   <image mime-type="image/jpeg" src="../../media/airbreak.jpg" width="250" print-width="2.5in"/>
+ </media>
+
+<caption>Air break.</caption></figure>
+</para><para id="id16636065">(Source: U.S. Food and Drug Administration)</para>
+      </section>
+      <section id="id16636070">
+        <title>Air Gap</title>
+        <definition id="id16636077">
+          <term>Air Gap</term>
+          <meaning id="oo-id16648413">The unobstructed vertical distance through the free atmosphere between the lowest opening from any pipe or outlet supplying fixture, or other device, and the flood level rim of the receptacle.
+      </meaning>
+        </definition>
+        <para id="id16636088">The vertical physical separation must be at least two times the inside diameter of the water inlet pipe above the flood rim level, but cannot be less than one inch.</para>
+        <para id="eip-773"><figure id="figure-03"><media id="airgaponlav" alt="air gap on lavatory">
+      <image mime-type="image/jpeg" src="../../media/airgaponlav.jpg" height="250" print-width="2.5in"/>
+</media>
+<caption>
+Air gap on lavatory.
+</caption>
+</figure> 
+
+<figure id="figure-04"><media id="airgapeffop" alt="air gap and effective opening">
+      <image mime-type="image/jpeg" src="../../media/airgapeffop.jpg" height="250" print-width="2.5in"/>
+</media>
+<caption>
+Air gap and effective opening.
+</caption>
+</figure> </para><para id="id16636159">(Source: U.S. Food and Drug Administration)</para>
+      </section>
+      <section id="id16636164">
+        <title>Air Break</title>
+        <definition id="id16636171">
+          <term>Air Break</term>
+          <meaning id="oo-id16641864">A piping arrangement in which a drain from a fixture, appliance, or device discharges indirectly into another fixture, receptacle or interception at a point below the flood level rim.
+      </meaning>
+        </definition>
+        <para id="id16636184">The connection does not provide an unobstructed vertical distance through the free atmosphere and is not solidly connected, but precludes the possibility of backflow to a potable water source into a sink or dishwasher/or fixture being drained.</para>
+        <para id="eip-615"><figure id="figure-05"><media id="backflowprev" alt="backflow prevention devices">
+      <image mime-type="image/jpeg" src="../../media/backflowprev.jpg" height="250" print-width="2.5in"/>
+</media>
+
+<caption>Backflow prevention devices.
+</caption></figure> </para><para id="id16636197">(Source: U.S. Food and Drug Administration)</para>
+      </section>
+    </section>
+    <section id="id16636204">
+      <title>Monitoring and Management</title>
+      <para id="id16636211">The management of water quality in your company is extremely important. You must develop a routine monitoring system to ensure water safety for the various uses in food production. You must also be aware of any risks posed by the design of the water conveyance system; for example, the cross- connections in the plumbing system.</para>
+      <para id="id16627007">When your company commissions any new equipment that uses water, it must be monitored prior to full use to ensure that the safety of water is not compromised.</para>
+    </section>
+  </content>
+</document>

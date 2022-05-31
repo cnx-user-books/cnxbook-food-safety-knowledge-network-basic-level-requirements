@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Food Safety: Introduction to Control of Food Hazards- Allergens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33334</md:content-id>
+  <md:title>Food Safety: Introduction to Control of Food Hazards- Allergens</md:title>
+  <md:abstract>This module on control of food hazards is part of the Food Safety Knowledge Network's Basic Level resources for food manufacturers. This module was authored by Kevin Swoffer.</md:abstract>
+  <md:uuid>0517d9cf-4223-4f08-9ebe-20d925ab4b02</md:uuid>
+</metadata>
+<content>
+    <section id="id1167212504753">
+      <title>Welcome</title>
+      <para id="id1167218323850">Welcome to <emphasis effect="bold">Introduction to Control of Food Hazards: Allergens</emphasis>.</para>
+      <para id="id1167215867084">This learning module is part of the Food Safety Knowledge Network Basic Level Program. </para>
+      <para id="id1167214718203">The Basic Level and Intermediate Level Programs were developed through a partnership between the Global Food Safety Initiative and Michigan State University to enhance the technical knowledge of individuals responsible for food safety, especially those working for small or less-developed businesses.</para>
+      <para id="id1167215659762">To learn more about the Food Safety Knowledge Network, please visit <link url="http://www.foodsafetyknowledgenetwork.org">www.foodsafetyknowledgenetwork.org</link>. </para>
+    </section>
+    <section id="id1167219155209">
+      <title>Module Overview</title>
+      <para id="id1167213718527">It is important to prevent adulteration of food products with contaminants or hazards that might injure or otherwise compromise the health of consumers. Food allergens can be a significant health risk to those consumers who have allergic reactions to specific foodstuffs. Allergens can contaminate food products during the preparation, storage, or distribution stages. If there is a risk that food products have been contaminated by a known allergen, the food must be immediately removed from the food supply chain.</para>
+      <para id="id1167221631522">This module covers the requirements related to effective control and management of allergens.</para>
+      <para id="id1167215666027">The following topics will be discussed:</para>
+      <list id="id1167222623091" list-type="bulleted">
+        <item>system development</item>
+        <item>the importance of allergens</item>
+        <item>the handling and control of allergens.</item>
+      </list>
+    </section>
+    <section id="id1167220084631">
+      <title>Module Objectives</title>
+      <para id="id1167218401842">Upon completion of this module you should be able to</para>
+      <list id="id1167213727847" list-type="bulleted">
+        <item>describe the principles and reasons for controlling food allergens </item>
+        <item>explain regulations and customer requirements governing the presence and control of allergens</item>
+        <item>explain the recognized and known control measures and how to apply these to control food allergens within the facility, taking into consideration local regulatory compliance and customer requirements</item>
+        <item>design monitoring procedures necessary to ensure control of food allergens</item>
+        <item>perform corrective actions when control measures are not achieved</item>
+        <item>develop a system for maintaining comprehensive records in relation to the control of allergens.</item>
+      </list>
+    </section>
+    
+    <section id="id1167215670147">
+      <title>System Development</title>
+      <para id="id1167212508634">As the person responsible for food safety within the factory it is important to develop a system to ensure and monitor that the staff is fully aware of and uses</para>
+      <list id="id1167224642037" list-type="bulleted">
+        <item>good personal hygiene</item>
+        <item>practices to prevent contamination by raw materials and packaging</item>
+        <item>good practices in cleaning and housekeeping </item>
+      </list>
+      <para id="id1167214527495">Any system will have to be clearly and concisely documented and communicated effectively to appropriate staff within the company.</para>
+      <para id="id1167217822902">It is important to work closely with key company staff to ensure they clearly understand the importance of such systems and the ways they can influence effective compliance. </para>
+      <para id="id1167218272681">Since the responsibility for food safety rests with you, direct verification of systems is extremely important for Basic Level requirements: you should personally monitor activities on a regular basis and record your findings.</para>
+    </section>
+    <section id="id1167212423917">
+      <title>The Importance of Allergens</title>
+      <para id="id1167218550059">It is important to understand what a food allergy is and how it affects the human immune system. It is also important to understand the difference between food allergies and food intolerance. </para>
+      <para id="id1167218299018">A food allergy is a reproducible adverse reaction to a particular food that involves the immune system. Nearly all allergens are proteins.</para>
+      <definition id="id1167216849564">
+        <term>Food Allergen</term>
+        <meaning id="oo-id1167221575099">a form of food intolerance associated with a hypersensitive immune response mediated reaction <emphasis effect="italics">in which antibodies are formed</emphasis>. 
+      </meaning>
+      </definition>
+      <definition id="id1167212507840">
+        <term>Food Intolerance</term>
+        <meaning id="oo-id1167226617240">a reproducible reaction to a food which occurs <emphasis effect="italics">without a hypersensitive immune response</emphasis>.
+      </meaning>
+      </definition>
+      <para id="id1167218401929">The effect of food allergens differs by population, as can be seen in Europe. There, an allergic reaction to the onion in the Western Europe is virtually non-existent. However in Eastern Europe there are an increasing number of cases where allergic reactions to onions occur. </para>
+      <para id="id1167217616258">On a global basis, approximately 1-2% of adults and 5-8% of children suffer from a food allergy. These figures are increasing each year.</para>
+      <section id="id1167221140593">
+        <title>The Effects of Food Allergies</title>
+        <para id="id1167221513246">In some cases, a reaction to a food allergen can result in death within a short period of time. A perfectly healthy individual can have a serious reaction that results in death within an hour of consumption. </para>
+        <para id="id1167227954368">Another important fact is that in some individuals as little as 1 mg. of an allergen can cause a serious reaction that can result in death.</para>
+        <para id="id1167215665547">Many people die each year from food allergies; for example, 100 deaths in the United States in 2006 resulted from peanut allergies.</para>
+      </section>
+      <section id="id1167218319281">
+        <title>Symptoms of an Allergic Reaction</title>
+        <para id="id1167215666473">There are different symptoms for allergic reactions to food. Some people suffer only very mild reactions while some can suffer very serious health effects, even death. </para>
+        <para id="id1167220266701">Typical symptoms of an allergic reaction to food are as follows:</para>
+        <list id="id1167218383339" list-type="bulleted">
+          <item>respiratory reaction, such as asthma </item>
+          <item>gastrointestinal reaction , such as vomiting or diarrhea </item>
+          <item>skin reaction, such as dermatitis</item>
+          <item>anaphylactic shock – evidenced by a drop in blood pressure, severe constriction of airways, multiple organ failures, and/or death.</item>
+        </list>
+      </section>
+      <section id="id1167220097565">
+        <title>Legal Requirements for Food Allergens</title>
+        <para id="id1167224637201">Because of the severity of food allergens, legal requirements have been put into place to ensure the correct labeling of foods. Food labeling should inform the consumer of the presence of known food allergens as an ingredient in the food or any possible cross-contamination of a known food allergen which may have taken place during its preparation. </para>
+        <para id="id1167212504707">Legislation put into place within the EU, US, and Australasia requires specific ingredients to be clearly listed on certain foods to highlight the presence of allergens. </para>
+        <para id="id1167218356393">The legislation listed below is the EU, US, and Australia/New Zealand’s requirements for food allergens:</para>
+        <list id="id1167218503388" list-type="bulleted">
+          <item>EU – Directive 2003/89/EC as regards to indication of the ingredients present in foodstuffs. </item>
+          <item>US – Public Law Section 201-210</item>
+          <item>Australia/New Zealand – Food Code Standard 1.2.3</item>
+        </list>
+        <para id="id1167218097950">As a food safety manager, you should be aware of the markets where the products you produce will be sold and thus ensure that your product is labeled in accordance with the above legislation. </para>
+        <para id="id1167213833996">You must appreciate that there are differing allergens specified within these legislative requirements and that these requirements may be amended and updated in line with the increasing diversity of allergen reaction to specific foodstuffs.</para>
+      </section>
+    </section>
+    <section id="id1167215659362">
+      <title>The Handling and Control of Allergens</title>
+      <para id="id1167215662991">Because of the importance of food allergens to consumer health, a system for managing the control of allergens should be in place. This system must have control measures for cleaning, packaging, and raw materials/ingredients as well as sessions for employee training and instruction.</para>
+      <para id="id1167212434494">As previously mentioned, very small qualities of certain food allergens can cause serious health effects or death, so good management of all these areas within the food business is essential. </para>
+      
+      <para id="eip-286"><media id="media01" alt="Allergen Management Diagram">
+   <image mime-type="image/png" src="../../media/FSKN10_01.png" width="400" print-width="4.5in"/>
+
+</media></para><section id="id1167222604138">
+        <title>People Control Measures of Food Allergens</title>
+        <para id="id1167222482693">The knowledge and behavior of the staff is extremely important in the control of allergens. </para>
+        <para id="id1167217094094">
+          <emphasis effect="bold">Staff Awareness </emphasis>
+        </para>
+        <para id="id1167224633538">All staff must be made aware of the importance of allergen control. The training should include product identification and recipe control. Where rework, is used staff should be aware of specific control measures to prevent cross-contamination. </para>
+        <para id="id1167220097869">Protective clothing soiled with a food allergen can pose a risk of contamination. Staff should be made aware that soiled clothing must be changed when working with specific food products. </para>
+        <para id="id1167218350609">
+          <emphasis effect="bold">Personal Hygiene </emphasis>
+        </para>
+        <para id="id1167217743806">Hand washing is important in allergen control since contamination can occur when working with different ingredients. Staff members must wash their hands between the uses of different ingredients. </para>
+        <para id="id1167216849794">
+          <emphasis effect="bold">Waste Control</emphasis>
+        </para>
+        <para id="id1167217050232">The staff should be aware of the correct procedures for waste disposal, particularly when the product contains allergens. </para>
+        <para id="id1167219114207">
+          <emphasis effect="bold">Equipment </emphasis>
+        </para>
+        <para id="id1167217616278">When using utensils for the production of food products, the staff must be trained in reducing contamination by cleaning the utensils when using them for different foods. The production of chocolate provides a good example . Some factories make chocolate containing nuts and also without nuts. If they use the same utensils or equipment, they risk contaminating the product. The staff should clean all utensils and equipment to remove the risk of allergen contamination. It is good practice to use separate utensils for specific food products. </para>
+        <para id="id1167221550566">
+          <emphasis effect="bold">Food Consumption</emphasis>
+        </para>
+        <para id="id1167215777979">Consumption of certain products by staff members can introduce allergens into the foodstuffs being produced. Good management practice dictates that eating and drinking shall be restricted to the canteen or external areas away from food products or ingredients. Good management practice also dictates a hand washing policy: all staff must wash their hands before entering a food production area. </para>
+      </section>
+      <section id="id1167228864048">
+        <title>Raw Materials and Ingredients Control Measures of Food Allergens</title>
+        <para id="id1167213616192">It is crucial to know the status of the raw materials and ingredients that you receive from your suppliers. If the ingredients you obtain from your suppliers are contaminated with allergens, then all your precautions you take in your factory to control allergens will be pointless. Ask questions of your suppliers. For example, ask them about their cleaning schedules and the ways they store their products. </para>
+        <para id="id1167218685572">If you have an allergen as an ingredient or an ingredient contains an allergen, then these products must be clearly indentified and controlled within your factory. The preferred means of identification is clear labeling of the product. Staff members can, therefore, easily indentify and control the use of these products throughout the process. </para>
+        <para id="id1167218376987">It is essential to keep comprehensive records of all recipe batches and production schedules to verify the effective control of allergens.</para>
+      </section>
+      <section id="id1167216857766">
+        <title>Packaging Control Measures of Food Allergens</title>
+        <para id="id1167218279011">The control of the use and storage of packaging is important to reduce possible cross-contamination by allergens. </para>
+        <para id="id1167218522707">Incorrect storage of packaging can introduce allergens into the product. Packaging that is meant to contain “allergen free” products should be securely stored away from other packaging.</para>
+        <para id="id1167220149158">The most common problem in allergen control is the placing of product into incorrect packaging. Special emphasis should be placed on process control when there is a change in a product’s recipe on the production line. Measures must be put in place to ensure that the product is placed in correct packaging. </para>
+        <para id="id1167221326225">Controls at the packaging stage of the product are extremely important.</para>
+      </section>
+      <section id="id1167228541160">
+        <title>Cleaning Control Measures of Food Allergens</title>
+        <para id="id1167213716834">Allergens can contaminate products when cleaning is not done competently. Cleaning within the factory should be carried out on a comprehensive cleaning schedule with subsequent monitoring for effectiveness.</para>
+        <para id="id1167212429129">Allergen-dedicated cleaning equipment should be used to clean all areas that pose a contamination risk.</para>
+        <para id="id1167215670023">As a food safety manager, you are responsible for developing an effective cleaning schedule that minimizes the risk of all possible allergen contaminants on equipment and the factory environment. Your emphasis should be placed on equipment that requires dismantling for effective cleaning to ensure all allergen contaminants are removed before reuse. </para>
+        <para id="id1167217446982">Your staff should be aware that any spillages must be cleaned immediately.</para>
+      </section>
+      <section id="id1167217217634">
+        <title>Production Measures of Food Allergens</title>
+        <para id="id1167217544304">Production processes and schedules have a significant influence on the control of food allergens. </para>
+        <para id="id1167221133998">Where possible, foodstuffs that contain allergens should be processed on specific equipment or in specific areas of the factory to reduce the risk of possible cross- contamination But other measure should also be used to control food allergens. For example, installing physical barriers such as doors between processing rooms reduces the risk of cross- contamination. </para>
+        <para id="id1167212514742">Dedicated utensils that are used just for specific foodstuffs will help reduce allergen contamination; for example, utensils that are color-coded for use on products that contain nuts should not be used for any other foodstuff. </para>
+        <para id="id1167215883611">The movement of materials and equipment within your factory will also help reduce the risk of allergens contaminating products.</para>
+        <para id="id1167216912972">Production scheduling is a key in the control of food allergens. Scheduling sufficient time for effective cleaning, for example, will reduce the risk of allergen contamination. </para>
+        <para id="id1167213727499">Reworking a product back into the production line is a high-risk process because the identity and status of the product can be lost if the control measure are not in place. The loss of identity means allergens can easily be put into a product that is not labeled to indicate the presence of an allergen.</para>
+      </section>
+      <section id="id1167219066265">
+        <title>Corrective Actions</title>
+        <para id="id1167218219546">Because of the severity of the food allergen, it is essential to take corrective action as soon as you are aware of any contamination or incorrectly labeled product. </para>
+        <para id="id1167217302121">The product should be quarantined in the factory and a decision made on the use or disposal of the product. However, if the product is already in the distribution system and could be consumed by the buyers, actions to effect product recall must be initiated. </para>
+      </section>
+    </section>
+  </content>
+</document>

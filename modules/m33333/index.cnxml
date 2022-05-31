@@ -1,0 +1,347 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Food Safety: Introduction to Control of Food Hazards- General and Specific</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33333</md:content-id>
+  <md:title>Food Safety: Introduction to Control of Food Hazards- General and Specific</md:title>
+  <md:abstract>This module on control of food hazards is part of the Food Safety Knowledge Network's Basic Level resources for food manufacturers. This module was authored by Kevin Swoffer.</md:abstract>
+  <md:uuid>ba4aef97-c59d-417b-a687-9bc8c51599f8</md:uuid>
+</metadata>
+<content>
+    <section id="id1166567217596">
+      <title>Welcome</title>
+      <para id="id8482144">Welcome to <emphasis effect="bold">Introduction to Control of Food Hazards: General and Specific</emphasis>.</para>
+      <para id="id1166559510149">This learning module is part of the Food Safety Knowledge Network Basic Level Program. </para>
+      <para id="id8482331">The Basic Level and Intermediate Level Programs were developed through a partnership between the Global Food Safety Initiative and Michigan State University to enhance the technical knowledge of individuals responsible for food safety, especially those working for small or less-developed businesses.</para>
+      <para id="id3774958">To learn more about the Food Safety Knowledge Network, please visit <link url="http://www.foodsafetyknowledgenetwork.org">www.foodsafetyknowledgenetwork.org</link>. </para>
+    </section>
+    <section id="id4885313">
+      <title>Module Overview</title>
+      <para id="id5620114">You need comprehensive knowledge to control food hazards within your company. Lack of the control of hazards can cause contamination resulting in risks to consumer health or loss of product leading to significant financial loss. Food hazards can be biological, chemical, or physical in nature. As a food safety manager, you should be aware of the significance of hazards and must identify and monitor hazards within your production process.</para>
+      <para id="id6011519">This module covers the requirements for effective general and specific controls to prevent food hazards.</para>
+      <para id="id7716566">The following topics will be discussed:</para>
+      <list id="id4288962" list-type="bulleted">
+        <item>system development</item>
+        <item>biological hazards</item>
+        <item>chemical hazards</item>
+        <item>physical hazards</item>
+        <item>control of food safety hazards.</item>
+      </list>
+    </section>
+    <section id="id1166571326887">
+      <title>Module Objectives</title>
+      <para id="id1166565127977">Upon completion of this module you should be able to</para>
+      <list id="id1166559393739" list-type="bulleted"><item>describe the principles and reasons for controlling food hazards</item>
+        <item>explain the nature of food safety hazards (biological, chemical, physical, and allergens) and factors influencing the likelihood of their occurrence (such as, conditions which influence food safety hazards commonly associated with specific ingredients used, specific processes undertaken, and specific foods produced as well as customer requirements and legislation)</item>
+        <item>explain the recognized and known control measures and how to apply these to control hazards relevant to specific products, taking into consideration local regulatory compliance and customer requirements</item>
+        <item>design the monitoring procedures necessary to ensure control of food safety hazards relevant to the product</item>
+        <item>perform corrective actions when control measures are not achieved</item>
+     
+        <item>operate a system for maintaining comprehensive records in relation to the control of identified hazards.</item>
+      </list>
+    </section>
+    <section id="id1166563968674">
+      <title>System Development</title>
+      <para id="id1166573910718">As the person responsible for food safety within the factory it is important to develop a system to ensure and monitor that the staff is fully aware of and uses</para>
+      <list id="id1166567201779" list-type="bulleted">
+        <item>good biological hazard prevention practices </item>
+        <item>good chemical hazard prevention practices</item>
+        <item>good physical hazard prevention practices</item>
+        <item>risk analysis processes to identify all possible hazards.</item>
+      </list>
+      <para id="id1166559413643">Any system will have to be clearly and concisely documented and communicated effectively to appropriate staff within the company.</para>
+      <para id="id1166567197580">It is important to work closely with key company staff to ensure that they clearly understand the importance of such systems and the ways they can influence effective compliance. </para>
+      <para id="id1166570667898">Since the responsibility for food safety rests with you, direct verification of systems is extremely important for Basic Level requirements. You should personally monitor activities on a regular basis and record your findings. </para>
+    </section>
+    <section id="id1166565259766">
+      <title>Food Safety </title>
+      <para id="id1166574493156">When considering food safety, you must understand the difference between quality and safety. </para>
+      <definition id="id1166563968780">
+        <term>Food Safety (Codex Standards)</term>
+        <meaning id="oo-id1166562257227">Assurance that food will not cause harm when prepared and/or eaten according to its intended use.
+      </meaning>
+      </definition>
+      <para id="id1166566731321">Food <emphasis effect="italics">safety</emphasis> refers to attributes that cannot be directly observed, but instead require laboratory procedures for their measurement. These procedures include microbiological techniques or chemical analysis. </para>
+      <para id="id1166568060540">Food <emphasis effect="italics">quality</emphasis> refers to attributes that can be readily observed by sight, smell, or simple measurement (such as color or condition). Food quality is easier to assess than food safety.</para>
+      <section id="id1166572297270">
+        <title>Definition of a Food Safety Hazard</title>
+        <definition id="id1166559427265">
+          <term>Food Safety Hazard (Codex Standards)</term>
+          <meaning id="oo-id5755311">A biological, chemical or physical agent in, or condition of, food with the potential to cause an adverse health effect.
+      </meaning>
+        </definition>
+        <para id="id1166566642634">Food safety hazards include bacteria, viruses, parasites, hazardous chemicals, and foreign materials that can cause an adverse health effect to a consumer. </para>
+      </section>
+      <section id="id1166559874620">
+        <title>Food Safety Hazards</title>
+        <para id="id1166571992778">In food safety management systems, hazards refer to conditions or contaminants in foods that can cause illness or injury.</para>
+        <para id="id1166573678245">It is important to understand that hazards do not refer to undesirable conditions or contaminants such as</para>
+        <list id="id1166560301631" list-type="bulleted">
+          <item>presence of insects</item>
+          <item>spoilage</item>
+          <item>hair or dirt</item>
+          <item>violations of regulatory food standards not directly related to safety. </item>
+        </list>
+      </section>
+    </section>
+    <section id="id1166562749459">
+      <title>Biological Hazards</title>
+      <para id="id1166562251625">There are a number of different types of biological hazards that can be present within food. These are typically microorganisms and include</para>
+      <list id="id1166571453433" list-type="bulleted">
+        <item>bacteria</item>
+        <item>viruses</item>
+        <item>parasites.</item>
+      </list>
+      <para id="id1166571864955">Control points for biological hazards must be identified during the process and storage of food products. This can be done by using hazard analysis techniques.</para>
+      <section id="id2117713">
+        <title>Practical Food Microbiology</title>
+        <para id="id1166562266130">Microorganisms are small, living uni-cellular or multi-cellular organisms. They include bacteria, viruses, yeasts, molds, and parasites. These are not all necessarily bad for humans; in fact, many can be beneficial to humans. </para>
+        <para id="id1166571604499">There are different types of microorganisms:</para>
+        <list id="id3363381" list-type="bulleted">
+          <item>helpful</item>
+          <item>spoilage</item>
+          <item>disease causing – pathogenic.</item>
+        </list>
+      </section>
+      <section id="id1166577454452">
+        <title>Helpful Microorganisms</title>
+        <para id="id1166577674089">Helpful microorganisms can be added to foods or are found naturally in them. </para>
+        <para id="id1166560123468">In many cases, microorganisms are used in foods to help with preservation but can also be added to create unique flavors and textures. </para>
+        <para id="id1166567184842">Foods such sauerkraut and pickles utilize fermentation as a preservation process and use microorganisms to carry out this fermentation process. Other foods such as bread use fermentation as an essential part of their production.</para>
+      </section>
+      <section id="id1166576527208">
+        <title>Spoilage Microorganisms</title>
+        <para id="id8442475">Spoilage microorganisms affect the quality of the product, not necessarily the safety of the food. It is usually very easy to indentify when a food product is affected by spoilage, by look or taste. There can be discoloration on fruit, molds on bread, or milk that tastes sour.</para>
+        <para id="id1166570666685">In some cases spoilage microorganisms can affect the safety of products. An example is that some fruits can decay by a mold called <emphasis effect="italics">penicillium expansum</emphasis>. This mold produces a toxin that can affect humans.</para>
+        <para id="id1166563279062">Any foods that are found to be spoilt should be disposed of immediately, and products in the same lot should be inspected. </para>
+      </section>
+      <section id="id1166574655186">
+        <title>Disease Causing - Pathogenic Microorganisms</title>
+        <para id="id6734228">Disease-causing, pathogenic microorganisms can cause illnesses that can range from mild to life-threatening. These microorganisms are the most serious, so you must develop procedures to eliminate the risk of their contaminating products.</para>
+        <para id="id1166559512275">Examples of these microorganisms that should be effectively controlled are bacteria such as <emphasis effect="italics">Salmonella</emphasis> or <emphasis effect="italics">E. coli</emphasis> 0157:H7. The common symptoms of these are nausea, vomiting and diarrhea, and, in serious cases, death.</para>
+      </section>
+      <section id="id1166567213959">
+        <title>Pathogens</title>
+        <para id="id1166566858298">Pathogens are microorganisms that cause food-borne illness. Pathogens come in three forms:</para>
+        <list id="id7686504" list-type="bulleted">
+          <item>bacteria – single-celled organisms that live independently</item>
+          <item>viruses – small particles that live and replicate in a host</item>
+          <item>parasites – intestinal worms or protozoa that live in a host animal or human.</item>
+        </list>
+        <para id="id1166559361976">Pathogens can be found in soils; these include:</para>
+        <list id="id5899550" list-type="bulleted">
+          <item><emphasis effect="italics">Salmonella</emphasis> species </item>
+          <item><emphasis effect="italics">E. coli</emphasis> O157:H7</item>
+          <item><emphasis effect="italics">Shigella</emphasis> species</item>
+          <item>
+            <emphasis effect="italics">Campylobacter jejuni</emphasis>
+          </item>
+          <item>viruses and parasites</item>
+        </list>
+        <para id="id1166563761394">The presence of pathogens within humans is the main reason why washing your hands after using the toilet is essential when working with food. </para>
+        <section id="id7527362">
+          <title>Bacteria</title>
+          <para id="id1166559529613">Bacteria are very resilient microorganisms that are found everywhere. Some examples of where they can live and multiply are</para>
+          <list id="id1166571279110" list-type="bulleted">
+            <item>in air, soil, and water</item>
+            <item>in intestines of animals and humans</item>
+            <item>on skins of fruit and vegetables</item>
+            <item>on raw meat, poultry, and seafood</item>
+            <item>on shells of nuts</item>
+            <item>on insects and rodents</item>
+            <item>on hands, skin, hair, and clothing of people.</item>
+          </list>
+          <para id="id1166564961662">Because of the nature and diversity of bacteria, they can be found almost anywhere in your factory. It is, therefore, imperative that bacteria and other microorganisms are controlled to acceptable levels and, in some cases, completely eliminated in the food. </para>
+          <para id="id1166559717022">The problem with bacteria when concerned with food safety is that they are single- celled organisms that can live independently. When the conditions are correct, they can divide and multiply very quickly, as is seen in the example below. To multiply, bacteria need moisture, nutrients, warmth, and time. Moisture and nutrients are found on most foods, so bacterial growth on foods is very common. </para>
+          <para id="eip-431"><media id="media_01" alt="example of bacteria reproduction">
+   <image mime-type="image/jpeg" src="../../media/FSKN9_01.jpg" width="250" print-width="4.5in"/>
+</media>
+</para><para id="id1166569220417">Bacteria cause the greatest number of deaths from food-borne illnesses. They are impossible to see with the naked eye. Taking these factors into account, it is clear that controlling bacteria can be difficult but is essential.</para>
+        </section>
+        <section id="id1166562901928">
+          <title>Viruses</title>
+          <para id="id1166569318359">Viruses are different from bacteria since they do not multiply in food. They are intracellular organisms which invade living cells and then use the cell’s content to replicate. </para>
+          <para id="id8449823">Since viruses do not multiply on food, they contaminate by human or animal interaction. Food-borne viral disease generally results from poor personal hygiene or lack of pest control. </para>
+          <para id="id1166559644000">Viruses can also survive and travel in water and ice, so it is essential that your water supply is adequate, safe, and regularly monitored. </para>
+          <section id="id1166560119816">
+            <title>Controlling Viruses</title>
+            <para id="id1166571217843">Personal hygiene for food handlers is extremely important in controlling viruses. All staff must be made aware of inappropriate personal hygiene practices, and monitoring should take place to ensure good personal hygiene is being followed.</para>
+            <para id="id1166567228006">Staff members who show symptoms of viral infection should be identified and kept away from food processing areas. If a food handler has a viral infection, then it is very easy to spread that virus. It is good practice to have a return to work policy in place for staff who have been absent as a result of a viral infection, allowing you thus to identify any viral symptoms that may still be present.</para>
+            <para id="id1166573942532">Viruses can be transmitted in water; potable water must, therefore, be used for ice- making or as an ingredient in food.</para>
+          </section>
+        </section>
+        <section id="id1166574043501">
+          <title>Parasites</title>
+          <para id="id1166562409109">Parasites can be uni-cellular or multi-cellular microorganisms. They can colonize in the gastrointestinal tract of humans and other animals.</para>
+          <para id="id1166559526494">More often than not these parasites have really complex life cycles where they may be in a human’s intestinal tract for a long period of time and shed cysts. These cysts are a protected form of themselves and can infect other people or animals when they are consumed.</para>
+          <para id="id1166560048949">The most common food-borne parasites are protozoan parasites and parasitic worms.</para>
+          <section id="id1166575703163">
+            <title>Protozoan Parasites</title>
+            <para id="id1166576526081">Protozoan parasites, which are uni-cellular organisms, are the most common food-borne (or water-borne) parasites. They are so common in some parts of the world that they are endemic. Examples of protozoan parasites include</para>
+            <list id="id1166566331594" list-type="bulleted">
+              <item>
+                <emphasis effect="italics">Giardia lamblia</emphasis>
+              </item>
+              <item>
+                <emphasis effect="italics">Cryptosporidium parvum</emphasis>
+              </item>
+              <item>
+                <emphasis effect="italics">Cyclospora cayetanesis</emphasis>
+              </item>
+              <item>
+                <emphasis effect="italics">Toxoplasma gondii </emphasis>
+              </item>
+            </list>
+          </section>
+          <section id="id6045446">
+            <title>Parasitic Worms</title>
+            <para id="id1166560128177">Parasitic worms are small, multi-cellular organisms which can colonize in the gastrointestinal tract or other tissues of humans or animals.</para>
+            <para id="id1166563851119">Some common parasitic worms include</para>
+            <list id="id1166560192476" list-type="bulleted">
+              <item><emphasis effect="italics">Anasakis simplex</emphasis> and related worms</item>
+              <item>other seafood-associated parasitic worms</item>
+              <item><emphasis effect="italics">Trichinella spiralis</emphasis> and related <emphasis effect="italics">Trichinella</emphasis> species</item>
+              <item><emphasis effect="italics">Ascaris lumbricoides</emphasis> and <emphasis effect="italics">Trichuris trichiura</emphasis>.</item>
+            </list>
+          </section>
+          <section id="id1166576806581">
+            <title>Controlling Parasites</title>
+            <para id="id1166566269345">Since parasites can be found in feces, there is a risk of contamination when using manure for fruit and vegetable crops. Consider using compost that does not contain manure to remove the risk of this parasitic contamination. </para>
+            <para id="id1166562427287">Since parasites can live in water, you must use potable water for the washing, packing, and processing food products.</para>
+            <para id="id5599255">Thermal processing can destroy parasites; so if appropriate, use this treatment to remove the parasite risk. </para>
+          </section>
+        </section>
+      </section>
+      <section id="id1166563851718">
+        <title>General Control Points for Biological Hazards</title>
+        <para id="id1166575262114">
+          <emphasis effect="bold">Product Specification</emphasis>
+        </para>
+        <para id="id1166568536209">It is important to be aware of the presence and number of microorganisms in food. Many raw materials, therefore, have microbiological standards. It is common in the food industry to have specifications for the absence of microbiological contaminants. </para>
+        <para id="id1166576532394">
+          <emphasis effect="bold">Control Mechanisms</emphasis>
+        </para>
+        <para id="id1166562212138">Physical and chemical control mechanisms significantly affect the survival and multiplication of microorganisms; for example, a reduction in pH in fruit juice by the addition of ascorbic acid can prevent microorganisms from multiplying.</para>
+        <para id="id9030913">Time and temperature are important control points since cooking or freezing rapidly can prevent the growth of biological contaminants. Freezing usually stops the multiplication of microorganisms; however it does not kill them. Thermal processing will kill most biological hazards.</para>
+        <para id="id1166574490038">
+          <emphasis effect="bold">Cross-Contamination</emphasis>
+        </para>
+        <para id="id1166559277849">Cross-contamination must be managed so that materials cannot contaminate others. Control systems should be in place and your staff made aware of their responsibility to prevent contamination. Your staff must also be aware of correct product handling and personal hygiene.</para>
+        <para id="id1166562759140">
+          <emphasis effect="bold">Cleaning and Disinfection</emphasis>
+        </para>
+        <para id="id1166560076437">The equipment used for producing, processing, and storing products should be sanitized on a regular basis. It is good practice to have a cleaning schedule in place. </para>
+        <para id="id1166572782713">The packing, storage, and distribution must be controlled so that no biological hazard can contaminate or survive on food products. This process will entail suitable packaging for the product and temperature control in storage and distribution.</para>
+        <para id="id1166564968120">
+          <emphasis effect="bold">Conditions for Use</emphasis>
+        </para>
+        <para id="id1166577568381">The directions you provide to the consumer are very important. Providing information on how to correctly store and cook the product can reduce the risks of biological hazards. </para>
+      </section>
+    </section>
+    <section id="id1166568130298">
+      <title>Chemical Hazards</title>
+      <para id="id1166577480237">There are different types of chemical hazards associated with food:</para>
+      <list id="id1166560050697" list-type="bulleted">
+        <item>naturally-occurring chemicals</item>
+        <item>intentionally-added chemicals</item>
+        <item>unintentional or incidental chemical additives.</item>
+      </list>
+      <para id="id8691561">Control points for chemical hazards must be identified during the process and storage of food products. Such can be done by using hazard analysis technique. </para>
+      <section id="id1166564456122">
+        <title>Naturally Occurring Chemical Hazards</title>
+        <para id="id1166562125924">There is a perception that if something is naturally grown or raised it will not have any chemical hazards present. This belief is not true; naturally occurring chemical hazards are present in many foods. For example, there are toxins found in many varieties of mushrooms and some seafood.</para>
+        <para id="id1166562127355">In many countries there is legislation relating to the presence or level of toxins, so you should be aware If you are using foods which may contain these toxins. It would be good practice to refer to legislation and analysis samples of the product before use.</para>
+        <para id="id1166575147627">These chemical hazards are often classified as biological, but the important thing is that it be recognized as a hazard and controlled. </para>
+        <para id="id1166559527958">Examples of naturally occurring chemical hazards are</para>
+        <list id="id1166569376872" list-type="bulleted">
+          <item>toxins produced by <emphasis effect="italics">Clostridium botulinum</emphasis>, <emphasis effect="italics">Staphylococcus aureus</emphasis>, <emphasis effect="italics">Bacillus cereus</emphasis></item>
+          <item>Scombrotoxin (histamine) – fish</item>
+          <item>Saxitoxin – paralytic shellfish toxin</item>
+          <item>Ciguatoxin – finfish </item>
+          <item>Mycotoxins – produced by moulds (fungi).</item>
+        </list>
+      </section>
+      <section id="id1166559510033">
+        <title>Intentionally Added Chemicals – Food Additives</title>
+        <para id="id1166572706346">There are two types of intentionally added chemicals, direct and indirect food additives. </para>
+        <para id="id1166575121050"><emphasis effect="bold">Direct additives</emphasis> are compounds such as preservatives; these include nitrites, sodium benzoate, and sulfiting agents. You must be aware of the regulations relating to the use of these compounds since legislation does differ from country to country. </para>
+        <para id="id1166560350084">Additives such as colors and nutritional additives (such as vitamins) are also direct. All direct additives must be included on all labels. You can see from the table the risks of using direct food additives improperly.</para>
+        <para id="id1166569380111"><emphasis effect="bold">Indirect food additives</emphasis> include</para>
+        <list id="id1166569321045" list-type="bulleted">
+          <item>adhesives</item>
+          <item>paper and paperboard components </item>
+          <item>polymers</item>
+          <item>adjuvants, protection aids, and sanitizers.</item>
+        </list>
+        <para id="id2123102">In most cases these indirect food additives are undesirable and migrate into the food from inappropriate packaging. </para>
+      </section>
+      <section id="id1166563962087">
+        <title>Unintentionally Added Chemicals</title>
+        <para id="id1166560199206">There are a number of unintentionally introduced chemicals added to foods by agricultural processes, including </para>
+        <list id="id1166566829536" list-type="bulleted">
+          <item>pesticides</item>
+          <item>fungicides</item>
+          <item>herbicides</item>
+          <item>fertilizers</item>
+          <item>antibiotics</item>
+          <item>growth hormones.</item>
+        </list>
+        <para id="id1166559323985">These substances are prohibited in certain countries. To ensure your company is complying with legislation where the food is sold, you should carefully review the appropriate legislation.</para>
+        <para id="id1166560048602">There are private standards and business-to-business requirements that can be stricter than legislative requirements, and the customer will closely scrutinize the product for the presence and level of substances that violate these standards.</para><para id="eip-67"><media id="media_02" alt="Hazards from chemical sources.">
+   <image mime-type="image/jpeg" src="../../media/FSKN9_02.jpg" width="500" print-width="4.5in"/>
+</media></para>
+      </section>
+      <section id="id8153194">
+        <title>Controls of Chemical Hazards</title>
+        <para id="id1166574958569">Having a management system in place that indentifies sampling points and sampling levels is good practice to reduce the risk of chemical hazards. The table shows suggested areas of inspection. </para>
+      </section>
+    </section>
+    <section id="id1166560825452">
+      <title>Physical Hazards </title>
+      <para id="id1166562887128">A physical hazard is any potential harmful extraneous matter not normally found in food. They are different to biological or chemical hazards: they generally cause problems for relatively few consumers per incident. The result of personal injuries is usually not life-threatening but can cause considerable personal distress to the consumer. Typical examples are broken teeth, cut mouths, and choking. </para>
+      <para id="id1166559529307">Examples of physical hazards</para>
+      <list id="id1166568230291" list-type="bulleted">
+        <item>metal fragments</item>
+        <item>glass particles</item>
+        <item>wood splinters</item>
+        <item>rock fragments</item>
+        <item>stones</item>
+        <item>bone fragments (meat and poultry)</item>
+      </list>
+      <para id="id7617311">Control points for physical hazards must be identified during the process and storage of food products. Such can be done by using a hazard analysis technique. </para>
+      <section id="id1166571732517">
+        <title>Preventing Physical Hazards</title>
+        <para id="id1166562269942">Preventive maintenance of equipment is extremely important to greatly reduce the risk of physical contamination. </para>
+        <para id="id1166563035303">Equipment failure or breakage can allow physical hazards to enter foods. This happens usually during the processing stage. Routine inspections and maintenance of the equipment is good practice.</para>
+        <para id="id1166560201565">Screens and filters used in liquid processing can identify problems in equipment upstream. By regularly inspecting the screens or filters, objects from equipment (broken machine parts or rubber seals, for example) can easily be seen and further contamination reduced.</para>
+      </section>
+      <section id="id1166567313565">
+        <title>Control or Detection Equipment</title>
+        <para id="id1166568210917">Detection equipment is very useful in identifying physical hazards in foods. There are a number of methods that can be used for different processes:</para>
+        <list id="id1166577684991" list-type="bulleted">
+          <item>magnet – ferrous metals</item>
+          <item>metal detector – ferrous and non-ferrous metals</item>
+          <item>X-ray equipment – all types of physical hazards</item>
+          <item>screen or sifter – separation by size</item>
+          <item>aspirator – segregation by weight</item>
+          <item>“Riffle Board” – removal of stones from beans</item>
+          <item>bone separator – mechanically-separated meat. </item>
+        </list>
+      </section>
+      <section id="id1166577732082">
+        <title>Employee Practices and Physical Hazards</title>
+        <para id="id8905621">The staff can pose a risk to foods by physical hazard contamination. In order to prevent/reduce this risk, your staff must be made aware of company policies in regard to hazard prevention. An example is the wearing of jewelry. </para>
+        <para id="id1166565029696">Your staff should also be encouraged to make you aware of any risk of possible physical product contamination they observe while at work.</para>
+      </section>
+      <section id="id1166559714678">
+        <title>Sources and Controls of Physical Hazards</title>
+        <para id="id1166568483600">As a food safety manager, you must have in place an effective management system that indentifies the source and control points to reduce the risk of physical hazards. The table shows physical hazard control methods. </para>
+      </section>
+    </section>
+    <section id="id1166567186084">
+      <title>Control of Food Safety Hazards</title>
+      <para id="id1166559416672">To control food safety hazards effectively, it is important to understand the nature of possible hazards. Not all substances or microorganisms are hazardous until they reach a certain level, so it is important to know and understand the significance of these levels.</para>
+      <para id="id8976053">Possible hazards are always going to pose a risk to your company, so it is essential to know how to control these hazards. By using different methods such as destroying, removing, preventing, or reducing hazards to an acceptable level, contamination issues will be greatly reduced. </para>
+      <para id="id1166563965067">To control food hazards, you must have a system in place that maintains control points within the process. You must have knowledge of how to develop this system so that any change can be taken into account and managed correctly.</para>
+    </section>
+  </content>
+</document>
